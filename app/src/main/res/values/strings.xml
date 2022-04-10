@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">DigiLearn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="android_intro"> \t \t Android is a software package and linux based operating system for mobile devices such as tablet computers and smartphones. \n\n
+\t It is developed by Google and later the OHA (Open Handset Alliance). Java language is mainly used to write the android code even though other languages can be used. \n\n
+\t The goal of android project is to create a successful real-world product that improves the mobile experience for end users. \n\n
+\t There are many code names of android such as Lollipop, Kitkat, Jelly Bean, Ice cream Sandwich, Froyo, Ecliar, Donut etc which is covered in next page.</string>
+
+    <string name="android_features"> \t \t After learning what is android, lets see the features of android. The important features of android are given below: \n\n
+\t \t 1) It is open-source.\n\n
+\t \t 2) Anyone can customize the Android Platform.\n\n
+\t \t 3) Availability for customers.\n\n
+\t \t 4) It provides many interesting features like weather details, opening screen, live RSS (Really Simple Syndication) feeds etc.\n\n
+\t \t 5) It provides support for messaging services(SMS and MMS), web browser, storage (SQLite), connectivity (GSM, CDMA, Blue Tooth, Wi-Fi etc.), media, handset layout etc.\n\n</string>
+
+
+    <string name="android_categories">
+        \t \t There are many android applications in the market. The top categories are:\n\n
+
+\t\t\t1. Entertainment\n
+\t\t\t2. Tools\n
+\t\t\t3. Communication\n
+\t\t\t4. Productivity\n
+\t\t\t5. Personalization\n
+\t\t\t6. Music and Audio\n
+\t\t\t7. Social\n
+\t\t\t8. Media and Video\n
+\t\t\t9. Travel and Local etc.\n
+    </string>
+
+
+    <string name="data_intro">
+        \t\t Data science is a deep study of the massive amount of data, which involves extracting meaningful insights from raw, structured, and unstructured data that is processed using the scientific method, different technologies, and algorithms. \n\n
+
+\t\t It is a multidisciplinary field that uses tools and techniques to manipulate the data so that you can find something new and meaningful.\n\n
+
+\t\t Data science uses the most powerful hardware, programming systems, and most efficient algorithms to solve the data related problems. It is the future of artificial intelligence.\n\n
+    </string>
+
+    <string name="data_need">
+    \t\t Some years ago, data was less and mostly available in a structured form, which could be easily stored in excel sheets, and processed using BI tools. \n\n
+
+\t\t But in today world, data is becoming so vast, i.e., approximately 2.5 quintals bytes of data is generating on every day, which led to data explosion.
+        It is estimated as per researches, that by 2020, 1.7 MB of data will be created at every single second, by a single person on earth.
+        Every Company requires data to work, grow, and improve their businesses. \n\n
+
+\t\t Now, handling of such huge amount of data is a challenging task for every organization. So to handle, process, and analysis of this,
+        we required some complex, powerful, and efficient algorithms and technology, and that technology came into existence as data Science.\n\n
+    </string>
+
+
+    <string name="data_application">
+        \t\t There are so many applications of Data Science. Below are the popular applications: \n\n
+
+        \t\t\t 1. Image Recognition and Speech Recognition\n
+        \t\t\t 2. Gaming World\n
+        \t\t\t 3. Internet Search\n
+        \t\t\t 4. Transport\n
+        \t\t\t 5. Healthcare\n
+        \t\t\t 6. Recommendation systems\n
+        \t\t\t 7. Risk detection\n
+    </string>
+
+
+    <string name="ai_intro">
+        \t\t In today world, technology is growing very fast, and we are getting in touch with different new technologies day by day.\n\n
+
+\t\t Here, one of the booming technologies of computer science is Artificial Intelligence which is ready to create a new revolution in the world by
+        making intelligent machines.The Artificial Intelligence is now all around us. It is currently working with a variety of subfields, ranging
+        from general to specific, such as self-driving cars, playing chess, proving theorems, playing music, Painting, etc. \n\n
+
+\t\t AI is one of the fascinating and universal fields of Computer science which has a great scope in future. AI holds a tendency to cause a
+        machine to work as a human.\n
+    </string>
+
+
+    <string name="ai_need">
+        \t\t Before Learning about Artificial Intelligence, we should know that what is the importance of
+        AI and why should we learn it. Following are some main reasons to learn about AI: \n\n
+
+\t\t\t With the help of AI, you can create such software or devices which can solve real-world problems
+        very easily and with accuracy such as health issues, marketing, traffic issues, etc. \n\n
+\t\t\t With the help of AI, you can create your personal virtual Assistant, such as Cortana, Google Assistant, Siri, etc. \n\n
+\t\t\t With the help of AI, you can build such Robots which can work in an environment where survival of humans can be at risk. \n\n
+\t\t\t AI opens a path for other new technologies, new devices, and new Opportunities. \n
+    </string>
+
+
+    <string name="ai_advantages">
+        \t\t Following are some main advantages of Artificial Intelligence: \n\n
+        \t\t\t 1. High Accuracy with less errors \n
+        \t\t\t 2. High Speed \n
+        \t\t\t 3. High Reliability \n
+        \t\t\t 4. Useful for risky areas \n
+        \t\t\t 5. Digital Assistant \n
+        \t\t\t 6. Useful as a public utility \n
+    </string>
+
+
+    <string name="ml_intro">
+        \t\t In the real world, we are surrounded by humans who can learn everything from their experiences with their learning capability,
+        and we have computers or machines which work on our instructions. But can a machine also learn from experiences or past data like
+        a human does? So here comes the role of Machine Learning. \n\n
+        \t\t Machine Learning is said as a subset of artificial intelligence that is mainly concerned with the development of algorithms which
+        allow a computer to learn from the data and past experiences on their own. The term machine learning was first introduced by Arthur
+        Samuel in 1959. We can define it in a summarized way as: \n\n
+        \t\t "Machine learning enables a machine to automatically learn from data, improve performance from experiences, and predict things without being explicitly programmed." \n\n
+        \t\t With the help of sample historical data, which is known as training data, machine learning algorithms build a mathematical model
+        that helps in making predictions or decisions without being explicitly programmed. Machine learning brings computer science and
+        statistics together for creating predictive models. Machine learning constructs or uses the algorithms that learn from historical data.
+        The more we will provide the information, the higher will be the performance. \n
+    </string>
+
+
+    <string name="ml_need">
+        \t\t The need for machine learning is increasing day by day. The reason behind the need for machine learning is that it is capable
+        of doing tasks that are too complex for a person to implement directly. As a human, we have some limitations as we cannot access
+        the huge amount of data manually, so for this, we need some computer systems and here comes the machine learning to make things
+        easy for us. \n\n
+
+\t\t We can train machine learning algorithms by providing them the huge amount of data and let them explore the data, construct the models,
+        and predict the required output automatically. The performance of the machine learning algorithm depends on the amount of data, and
+        it can be determined by the cost function. With the help of machine learning, we can save both time and money. \n\n
+
+\t\t The importance of machine learning can be easily understood by its uses cases, Currently, machine learning is used in self-driving cars,
+        cyber fraud detection, face recognition, and friend suggestion by Facebook, etc. Various top companies such as Netflix and Amazon have
+        build machine learning models that are using a vast amount of data to analyze the user interest and recommend product accordingly.
+    </string>
+
+
+    <string name="ml_application">
+        \t\t Machine learning is a buzzword for today technology, and it is growing very rapidly day by day. We are using machine learning
+        in our daily life even without knowing it such as Google Maps, Google assistant, Alexa, etc. Below are some most trending real-world
+        applications of Machine Learning: \n\n
+
+        \t\t\t 1. Image Recognition \n
+        \t\t\t 2. Speech Recognition \n
+        \t\t\t 3. Traffic Prediction \n
+        \t\t\t 4. Product recommendations \n
+        \t\t\t 5. Self-driving cars \n
+        \t\t\t 6. Email Spam and Malware Filtering \n
+        \t\t\t 7. Virtual Personal Assistant \n
+        \t\t\t 8. Online Fraud Detection \n
+        \t\t\t 9. Stock Market trading \n
+        \t\t\t 10. Medical Diagnosis \n
+    </string>
+
+
+    <string name="web_intro">
+        \t\t Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).
+        Web development can range from developing a simple single static page of plain text to complex web applications, electronic
+        businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include
+        Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network
+        security configuration, and e-commerce development. \n\n
+
+\t\t Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites: writing markup and coding.
+        Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills. \n\n
+
+\t\t For larger organizations and businesses, Web development teams can consist of hundreds of people (Web developers) and follow standard
+        methods like Agile methodologies while developing Web sites. Smaller organizations may only require a single permanent or contracting
+        developer, or secondary assignment to related job positions such as a graphic designer or information systems technician. Web
+        development may be a collaborative effort between departments rather than the domain of a designated department. There are three kinds
+        of Web developer specialization: front-end developer, back-end developer, and full-stack developer. Front-end developers are
+        responsible for behavior and visuals that run in the user browser, while back-end developers deal with the servers.\n
+    </string>
+
+
+    <string name="web_need">
+        \t\t Contrary to what some may believe, web development is still an extremely vital part of any marketing strategy. A common belief
+        today is that social media platforms have replaced the need for a conventional website but that simply is not the case. \n\n
+
+\t\t It’s true that in recent years there has been a shift toward online interactions with social media sites, mobile devices and apps
+        topping the charts. As a result, the way people access the web to shop, chat and find information has also changed dramatically.
+        Businesses of all shapes and sizes have had to adapt their web presence to stay in front of their consumers. \n\n
+
+\t\t So with all the digital and social advancements, why is web development still important? These 5 reasons outline why your website is key
+        to building a successful online presence for your business. \n
+    </string>
+
+
+    <string name="web_application">
+        \t\t Following are some main applications of Web Development: \n\n
+        \t\t\t 1. online forms \n
+        \t\t\t 2. shopping carts \n
+        \t\t\t 3. word processors \n
+        \t\t\t 4. spreadsheets \n
+        \t\t\t 5. video and photo editing \n
+        \t\t\t 6. file conversion \n
+        \t\t\t 7. file scanning \n
+        \t\t\t 8. email programs such as Gmail, Yahoo \n
+    </string>
+</resources>
